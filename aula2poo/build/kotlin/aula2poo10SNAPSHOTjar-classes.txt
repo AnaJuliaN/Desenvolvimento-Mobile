@@ -1,0 +1,1 @@
+C:\xampp\htdocs\aula2poo\build\classes\kotlin\main\FiguraGeometrica.class;C:\xampp\htdocs\aula2poo\build\classes\kotlin\main\MainKt.class;C:\xampp\htdocs\aula2poo\build\classes\kotlin\main\Quadrado.class;C:\xampp\htdocs\aula2poo\build\classes\kotlin\main\Retangulo.class;C:\xampp\htdocs\aula2poo\build\classes\kotlin\main\Triangulo.class
